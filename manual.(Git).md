@@ -32,4 +32,4 @@
 1. git branch
 
 * **Создаем новую ветку**
-1. git branch 
+1. git branch "Название ветки"
